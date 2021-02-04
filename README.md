@@ -17,8 +17,8 @@ To run this code the following installation steps are required:
 ```bash
 $> sudo apt install libpcl-dev
 $> cd ~
-$> git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
-$> cd SFND_Lidar_Obstacle_Detection
+$> git clone https://github.com/nutmas/SFND_LidarObstacleDetection.git
+
 
 ```
 
@@ -58,7 +58,7 @@ $> cd SFND_Lidar_Obstacle_Detection
 
 ## Build the code
 
-1. From the project_udacity folder change to folder created from cloning `cd SFND_LidarOstacleDetection`
+1. Access the folder created from cloning `cd SFND_LidarObstacleDetection`
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make` 
 
@@ -69,7 +69,7 @@ $> cd SFND_Lidar_Obstacle_Detection
 
 After completing the installation steps the model can be trained by performing the following step:
 
-1. From terminal window; change to build folder of project `cd ~/SFND_LidarOstacleDetection/build`
+1. From terminal window; change to build folder of project `cd SFND_LidarOstacleDetection/build`
 2. ./environment
 
 ---
